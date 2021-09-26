@@ -4,27 +4,36 @@ Are you a fan of Retro Games? Want to play games anywhere? Then this Portable Re
 
 [![Watch the video](https://img.youtube.com/vi/qr3741cBEt0/maxresdefault.jpg)](https://www.youtube.com/watch?v=qr3741cBEt0)
 
+
+<img src="https://m.media-amazon.com/images/I/71TsYr1GhtL._AC_SL1440_.jpg" width="400">
+
 # Materials
 1.) Raspberry pi 4 2Gb set 
-<img src="https://m.media-amazon.com/images/I/71TsYr1GhtL._AC_SL1440_.jpg" width="700">
--Raspberry pi 4 case
+
+-Raspberry pi 4 case 
 
 -SD Card 64gb or higher
 
 -fan
 
-2.) HDMI to Micro cable
+- USB A to USB C cable
+ 
+https://shopee.ph/Raspberry-Pi-4-Model-B-2GB-4GB-RAM-Support-2.4-5.0-GHz-WIFI-Bluetooth-5.0-i.262919729.6037558832
 
-3.) USB A to USB C cable
+https://shopee.ph/Raspberry-Pi-4-Model-B-Accessories-Kit-Including-9-Layers-Case-with-Cooling-Fan-Heatsink-Switch-Cable-US-Charger-Adapter-Suitable-for-RPI4-i.174315508.6727283620
 
-4.) 7 inch Capacitive Touch Screen LCD (https://www.waveshare.com/wiki/7inch_HDMI_LCD_(C)) 
+2.) HDMI to Micro cable https://shopee.ph/LANDZO-1M-Micro-HDMI-To-HDMI-Cable-Adapter-Cord-for-Tablet-HDTV-and-Raspberry-Pi-4-HDMI-HD-Cable-i.174315508.2826895720
+
+3.) 7 inch Capacitive Touch Screen LCD (https://www.waveshare.com/wiki/7inch_HDMI_LCD_(C)) 
 specs dimention: https://www.waveshare.com/wiki/7inch_HDMI_LCD_(C) https://www.waveshare.com/w/upload/c/cc/7inch_HDMI_LCD_%28C%29_User_Manual.pdf
 
-5.) USB A to USB Micro
+4.) USB A to USB Micro
 
-6.) 8Ω 5W Speaker (https://www.waveshare.com/8ohm-5w-speaker.htm)
+https://shopee.ph/7-Inch-HDMI-LCD-1024x600-Capacitive-Touch-Screen-for-Raspberry-Pi-4B-3B-Jetson-Nano-i.174315508.3911710235
 
-7.) PowerBank
+5.) 8Ω 5W Speaker (https://www.waveshare.com/8ohm-5w-speaker.htm) https://shopee.ph/1-Pair-Audio-Speakers-1045-Sound-Speaker-LCD-TV-Loudspeakers-8-Ohm-5W-Portable-i.135510909.2341604575
+
+7.) PowerBank 
 
 8.) Acrylic case
 
@@ -32,7 +41,7 @@ specs dimention: https://www.waveshare.com/wiki/7inch_HDMI_LCD_(C) https://www.w
 
 10.) SD card Reader
 
-11.) USB Joystck controller (You can also use BT controller)
+11.) USB Joystck controller (You can also use BT controller) https://shopee.ph/LED-Wired-USB-Gamepad-Vibration-Joystick-Game-Controller-Joypad-For-PC-Laptop-Win7-10-XP-i.43390158.1526655509
 
 # STEP 1
 SOFTWARE
