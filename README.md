@@ -2,7 +2,7 @@
 Are you a fan of Retro Games? Want to play games anywhere? Then this Portable Retropie is for you. :)
 
 
-[<img src="https://img.youtube.com/vi/<VIDEO ID>/maxresdefault.jpg" width="50%">](https://youtu.be/<VIDEO ID>)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=qr3741cBEt0)
 
 # Materials
 1.) Raspberry pi 4 2Gb set 
