@@ -25,6 +25,7 @@ https://shopee.ph/Raspberry-Pi-4-Model-B-Accessories-Kit-Including-9-Layers-Case
 2.) HDMI to Micro cable https://shopee.ph/LANDZO-1M-Micro-HDMI-To-HDMI-Cable-Adapter-Cord-for-Tablet-HDTV-and-Raspberry-Pi-4-HDMI-HD-Cable-i.174315508.2826895720
 
 3.) 7 inch Capacitive Touch Screen LCD (https://www.waveshare.com/wiki/7inch_HDMI_LCD_(C)) 
+
 specs dimention: https://www.waveshare.com/wiki/7inch_HDMI_LCD_(C) https://www.waveshare.com/w/upload/c/cc/7inch_HDMI_LCD_%28C%29_User_Manual.pdf
 
 4.) USB A to USB Micro
@@ -35,7 +36,7 @@ https://shopee.ph/7-Inch-HDMI-LCD-1024x600-Capacitive-Touch-Screen-for-Raspberry
 
 7.) PowerBank 
 
-8.) Acrylic case
+8.) Acrylic case or you can 3D printed
 
 9.) Angle bracket with nut and screws
 
@@ -118,15 +119,27 @@ https://www.youtube.com/watch?v=iTUT3i9urwI
 
 # CASE
 I made a 3D printed STL file if you want to 3D printed it. In my Case i use Acrylic. Here are the Dimensions
+
 STL Link: https://www.thingiverse.com/thing:4974919/files
+
 <img src="https://github.com/engrpanda/Portable-Retropie-Mini-Arcade/blob/main/3D%20Files/Portable-Retropie.PNG" width="400">
+
 <img src="https://github.com/engrpanda/Portable-Retropie-Mini-Arcade/blob/main/3D%20Files/front.PNG" width="400">
+
 Front: 275mmx158mm
+
 <img src="https://github.com/engrpanda/Portable-Retropie-Mini-Arcade/blob/main/3D%20Files/back.PNG" width="400">
+
 Front 275mmx158mm
+
 <img src="https://github.com/engrpanda/Portable-Retropie-Mini-Arcade/blob/main/3D%20Files/side.PNG" width="400">
+
 Back: 132mmx158mm
+
 <img src="https://github.com/engrpanda/Portable-Retropie-Mini-Arcade/blob/main/3D%20Files/below.PNG" width="400">
+
 Below: 275mmx132mm
+
 <img src="https://github.com/engrpanda/Portable-Retropie-Mini-Arcade/blob/main/3D%20Files/center.PNG" width="400">
+
 Center: 275mmx50mm
