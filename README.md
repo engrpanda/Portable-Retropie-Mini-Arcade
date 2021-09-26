@@ -1,7 +1,7 @@
 # Portable-Retropie-Mini-Arcade
 Are you a fan of Retro Games? Want to play games anywhere? Then this Portable Retropie is for you. :)
 
-
+Click to watch
 [![Watch the video](https://img.youtube.com/vi/qr3741cBEt0/maxresdefault.jpg)](https://www.youtube.com/watch?v=qr3741cBEt0)
 
 
@@ -16,7 +16,7 @@ Are you a fan of Retro Games? Want to play games anywhere? Then this Portable Re
 
 -fan
 
-- USB A to USB C cable
+-USB A to USB C cable
  
 https://shopee.ph/Raspberry-Pi-4-Model-B-2GB-4GB-RAM-Support-2.4-5.0-GHz-WIFI-Bluetooth-5.0-i.262919729.6037558832
 
@@ -61,21 +61,21 @@ To Download and to set it up all correctly is hard for beginner cause you need t
 
 Wanna take the challenge and download Roms on your own? here are some sites that i think are safe.
 
--Gamulator
+-Gamulator.com
 
--GaROMs
+-GaROMs.com
 
--Retrosic
+-Retrosic.com
 
--ROM Hustler
+-ROM Hustler.com
 
--ROM World
+-ROM World.com
 
--ROMsMania
+-ROMsMania.com
 
--Emulator Zone
+-Emulator Zone.com
 
--CoolROM
+-CoolROM.com
 
 
 
@@ -115,3 +115,18 @@ New to connections? here's a link to get you started:
 
 https://www.youtube.com/watch?v=iTUT3i9urwI
 
+
+# CASE
+I made a 3D printed STL file if you want to 3D printed it. In my Case i use Acrylic. Here are the Dimensions
+STL Link: https://www.thingiverse.com/thing:4974919/files
+<img src="https://github.com/engrpanda/Portable-Retropie-Mini-Arcade/blob/main/3D%20Files/Portable-Retropie.PNG" width="400">
+<img src="https://github.com/engrpanda/Portable-Retropie-Mini-Arcade/blob/main/3D%20Files/front.PNG" width="400">
+Front: 275mmx158mm
+<img src="https://github.com/engrpanda/Portable-Retropie-Mini-Arcade/blob/main/3D%20Files/back.PNG" width="400">
+Front 275mmx158mm
+<img src="https://github.com/engrpanda/Portable-Retropie-Mini-Arcade/blob/main/3D%20Files/side.PNG" width="400">
+Back: 132mmx158mm
+<img src="https://github.com/engrpanda/Portable-Retropie-Mini-Arcade/blob/main/3D%20Files/below.PNG" width="400">
+Below: 275mmx132mm
+<img src="https://github.com/engrpanda/Portable-Retropie-Mini-Arcade/blob/main/3D%20Files/center.PNG" width="400">
+Center: 275mmx50mm
