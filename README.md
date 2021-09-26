@@ -149,7 +149,7 @@ Below: 275mmx132mm
 Center: 275mmx50mm
 
 
-Optional: 
+# Optional: 
 
 Raspberry Pi 4 Retropie Boot From External If No SD Card Present and use Rasbian Desktop PC (like a normal PC which you Edit docs, Browser like fb or Youtube)
 
