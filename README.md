@@ -28,7 +28,7 @@ https://shopee.ph/Raspberry-Pi-4-Model-B-Accessories-Kit-Including-9-Layers-Case
 
 3.) 7 inch Capacitive Touch Screen LCD (https://www.waveshare.com/wiki/7inch_HDMI_LCD_(C)) 
 
-specs dimention: https://www.waveshare.com/wiki/7inch_HDMI_LCD_(C) https://www.waveshare.com/w/upload/c/cc/7inch_HDMI_LCD_%28C%29_User_Manual.pdf
+specs dimention: https://www.waveshare.com/w/upload/3/33/7inch-hdmi-lcd-c-panel-dimension.pdf https://www.waveshare.com/w/upload/c/cc/7inch_HDMI_LCD_%28C%29_User_Manual.pdf
 
 -USB A to USB Micro
 
@@ -64,21 +64,21 @@ To Download and to set it up all correctly is hard for beginner cause you need t
 
 Wanna take the challenge and download Roms on your own? here are some sites that i think are safe.
 
-- Gamulator.com
+-  https://Gamulator.com
 
-- GaROMs.com
+-  https://GaROMs.com
 
-- Retrosic.com
+-  https://Retrosic.com
 
-- ROM Hustler.com
+-  https://ROMHustler.com
 
-- ROM World.com
+-  https://ROMWorld.com
 
-- ROMsMania.com
+-  https://ROMsMania.com
 
-- Emulator Zone.com
+-  https://EmulatorZone.com
 
-- CoolROM.com
+-  https://CoolROM.com
 
 
 
@@ -130,6 +130,7 @@ STL Link: https://www.thingiverse.com/thing:4974919/files
 <img src="https://github.com/engrpanda/Portable-Retropie-Mini-Arcade/blob/main/3D%20Files/front.PNG" width="400">
 
 Front: 275mmx158mm
+Center hole: 164mmx89mm                                                                                                                
 
 <img src="https://github.com/engrpanda/Portable-Retropie-Mini-Arcade/blob/main/3D%20Files/back.PNG" width="400">
 
