@@ -4,9 +4,10 @@ Are you a fan of Retro Games? Want to play games anywhere? Then this Portable Re
 Click to watch
 [![Watch the video](https://img.youtube.com/vi/qr3741cBEt0/maxresdefault.jpg)](https://www.youtube.com/watch?v=qr3741cBEt0)
 
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.arcadepunks.com%2Fwp-content%2Fuploads%2F2019%2F05%2FIGDMeBabQL8-2.jpg&f=1&nofb=1"400">
 
 <img src="https://m.media-amazon.com/images/I/71TsYr1GhtL._AC_SL1440_.jpg" width="400">
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.arcadepunks.com%2Fwp-content%2Fuploads%2F2019%2F05%2FIGDMeBabQL8-2.jpg&f=1&nofb=1"400">
+
 
 # Materials
 1.) Raspberry pi 4 2Gb set 
@@ -48,7 +49,7 @@ https://shopee.ph/7-Inch-HDMI-LCD-1024x600-Capacitive-Touch-Screen-for-Raspberry
 # STEP 1
 SOFTWARE
 
-# There are two ways the HARD WAY or the EASIER WAY.
+# There are two ways to build it. The HARD WAY or the EASIER WAY. :)
 # HARD WAY - In this Build you can build your own custom ROMS or games. NOT for beginner.
 
 1.) First Download the Official Retropie Image https://retropie.org.uk/download/
@@ -63,21 +64,21 @@ To Download and to set it up all correctly is hard for beginner cause you need t
 
 Wanna take the challenge and download Roms on your own? here are some sites that i think are safe.
 
--Gamulator.com
+- Gamulator.com
 
--GaROMs.com
+- GaROMs.com
 
--Retrosic.com
+- Retrosic.com
 
--ROM Hustler.com
+- ROM Hustler.com
 
--ROM World.com
+- ROM World.com
 
--ROMsMania.com
+- ROMsMania.com
 
--Emulator Zone.com
+- Emulator Zone.com
 
--CoolROM.com
+- CoolROM.com
 
 
 
@@ -97,6 +98,7 @@ https://www.youtube.com/watch?v=PijX8GDco-g
 
 # STEP 2
 HARDWARE
+                                                                                      
 1.) Connect the Raspberry pi 4 peripherals. 
 
 -Power supply to the powerbank
