@@ -4,7 +4,7 @@ Are you a fan of Retro Games? Want to play games anywhere? Then this Portable Re
 Click to watch
 [![Watch the video](https://img.youtube.com/vi/qr3741cBEt0/maxresdefault.jpg)](https://www.youtube.com/watch?v=qr3741cBEt0)
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.arcadepunks.com%2Fwp-content%2Fuploads%2F2019%2F05%2FIGDMeBabQL8-2.jpg&f=1&nofb=1" width="400">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.arcadepunks.com%2Fwp-content%2Fuploads%2F2019%2F05%2FIGDMeBabQL8-2.jpg&f=1&nofb=1">
 
 <img src="https://m.media-amazon.com/images/I/71TsYr1GhtL._AC_SL1440_.jpg" width="400">
 
