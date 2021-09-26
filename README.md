@@ -147,3 +147,10 @@ Below: 275mmx132mm
 <img src="https://github.com/engrpanda/Portable-Retropie-Mini-Arcade/blob/main/3D%20Files/center.PNG" width="400">
 
 Center: 275mmx50mm
+
+
+Optional: 
+
+Raspberry Pi 4 Retropie Boot From External If No SD Card Present and use Rasbian Desktop PC (like a normal PC which you Edit docs, Browser like fb or Youtube)
+
+https://www.instructables.com/Raspberry-Pi-4-Retropie-Boot-From-External-If-No-S/
