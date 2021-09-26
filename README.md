@@ -6,6 +6,7 @@ Click to watch
 
 
 <img src="https://m.media-amazon.com/images/I/71TsYr1GhtL._AC_SL1440_.jpg" width="400">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.arcadepunks.com%2Fwp-content%2Fuploads%2F2019%2F05%2FIGDMeBabQL8-2.jpg&f=1&nofb=1"400">
 
 # Materials
 1.) Raspberry pi 4 2Gb set 
@@ -28,21 +29,21 @@ https://shopee.ph/Raspberry-Pi-4-Model-B-Accessories-Kit-Including-9-Layers-Case
 
 specs dimention: https://www.waveshare.com/wiki/7inch_HDMI_LCD_(C) https://www.waveshare.com/w/upload/c/cc/7inch_HDMI_LCD_%28C%29_User_Manual.pdf
 
-4.) USB A to USB Micro
+-USB A to USB Micro
 
 https://shopee.ph/7-Inch-HDMI-LCD-1024x600-Capacitive-Touch-Screen-for-Raspberry-Pi-4B-3B-Jetson-Nano-i.174315508.3911710235
 
-5.) 8Ω 5W Speaker (https://www.waveshare.com/8ohm-5w-speaker.htm) https://shopee.ph/1-Pair-Audio-Speakers-1045-Sound-Speaker-LCD-TV-Loudspeakers-8-Ohm-5W-Portable-i.135510909.2341604575
+4.) 8Ω 5W Speaker (https://www.waveshare.com/8ohm-5w-speaker.htm) https://shopee.ph/1-Pair-Audio-Speakers-1045-Sound-Speaker-LCD-TV-Loudspeakers-8-Ohm-5W-Portable-i.135510909.2341604575
 
-7.) PowerBank 
+5.) PowerBank 
 
-8.) Acrylic case or you can 3D printed
+6.) Acrylic case or you can 3D printed
 
-9.) Angle bracket with nut and screws
+7.) Angle bracket with nut and screws
 
-10.) SD card Reader
+8.) SD card Reader
 
-11.) USB Joystck controller (You can also use BT controller) https://shopee.ph/LED-Wired-USB-Gamepad-Vibration-Joystick-Game-Controller-Joypad-For-PC-Laptop-Win7-10-XP-i.43390158.1526655509
+9.) USB Joystck controller (You can also use BT controller) https://shopee.ph/LED-Wired-USB-Gamepad-Vibration-Joystick-Game-Controller-Joypad-For-PC-Laptop-Win7-10-XP-i.43390158.1526655509
 
 # STEP 1
 SOFTWARE
@@ -130,11 +131,11 @@ Front: 275mmx158mm
 
 <img src="https://github.com/engrpanda/Portable-Retropie-Mini-Arcade/blob/main/3D%20Files/back.PNG" width="400">
 
-Front 275mmx158mm
+Back: 275mmx158mm
 
 <img src="https://github.com/engrpanda/Portable-Retropie-Mini-Arcade/blob/main/3D%20Files/side.PNG" width="400">
 
-Back: 132mmx158mm
+Side: 132mmx158mm
 
 <img src="https://github.com/engrpanda/Portable-Retropie-Mini-Arcade/blob/main/3D%20Files/below.PNG" width="400">
 
