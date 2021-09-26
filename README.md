@@ -2,10 +2,11 @@
 Are you a fan of Retro Games? Want to play games anywhere? Then this Portable Retropie is for you. :)
 
 
+[<img src="https://img.youtube.com/vi/<VIDEO ID>/maxresdefault.jpg" width="50%">](https://youtu.be/<VIDEO ID>)
 
 # Materials
 1.) Raspberry pi 4 2Gb set 
-
+<img src="https://m.media-amazon.com/images/I/71TsYr1GhtL._AC_SL1440_.jpg" width="700">
 -Raspberry pi 4 case
 
 -SD Card 64gb or higher
@@ -16,7 +17,8 @@ Are you a fan of Retro Games? Want to play games anywhere? Then this Portable Re
 
 3.) USB A to USB C cable
 
-4.) 7 inch Capacitive Touch Screen LCD (https://www.waveshare.com/wiki/7inch_HDMI_LCD_(C))
+4.) 7 inch Capacitive Touch Screen LCD (https://www.waveshare.com/wiki/7inch_HDMI_LCD_(C)) 
+specs dimention: https://www.waveshare.com/wiki/7inch_HDMI_LCD_(C) https://www.waveshare.com/w/upload/c/cc/7inch_HDMI_LCD_%28C%29_User_Manual.pdf
 
 5.) USB A to USB Micro
 
@@ -82,5 +84,25 @@ https://www.instructables.com/How-to-Create-a-Retro-Gaming-Machine-Using-RetroPi
 
 https://www.youtube.com/watch?v=PijX8GDco-g
 
+# STEP 2
+HARDWARE
+1.) Connect the Raspberry pi 4 peripherals. 
 
+-Power supply to the powerbank
+
+-HDMI to the LCD Screen.
+
+-Connect the joystick controller
+
+2.) Connect the LCD Screen peripherals.
+
+-Power supply to powerbank
+
+-HDMI micro to raspberry pi 
+
+-Connect the Speaker at the back of LCD
+
+New to connections? here's a link to get you started: 
+
+https://www.youtube.com/watch?v=iTUT3i9urwI
 
